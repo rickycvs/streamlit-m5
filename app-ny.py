@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.title("Caso Bicicletas NY")
-st.write("Equipo 5 TI3005B.103")
+st.write("Ricardo Cuevas A00827489 TI3005B.103")
 sidebar = st.sidebar
 sidebar.title("Panel de Control")
 sidebar.write("Selecciona las opciones deseadas")
